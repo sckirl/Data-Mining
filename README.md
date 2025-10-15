@@ -8,6 +8,13 @@ Uses:
 twikit
 indoBert (https://indolem.github.io/IndoBERT/)
 
+Steps:
+0. Get your twitter account, login to your twitter account
+1. Just download and your cookies.json from browser to here
+2. Change the hashtags. Run the main.py to scrape data from twitter
+3. Run the Sentiment Analysis with the outputted .csv file
+4. ...profit?
+
 # Results 
 ## Positive
 <img width="576" height="525" alt="image" src="https://github.com/user-attachments/assets/95378bba-6c7a-4efa-be36-6db63f348c24" />
