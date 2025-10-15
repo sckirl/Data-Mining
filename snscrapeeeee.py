@@ -1,6 +1,6 @@
 import snscrape.modules.twitter as sntwitter
 
-query = '#17plus8 OR #17+8'
+query = '#17plus8'
 tweets = []
 
 for tweet in sntwitter.TwitterSearchScraper(query).get_items():
